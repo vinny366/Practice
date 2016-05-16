@@ -1,0 +1,30 @@
+  820  scp -p 2200 vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/www/Curator/config/routes.rb ./
+  821  scp -P 2200 vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/www/Curator/config/routes.rb ./
+  822  scp -P 2200 vvutukur@spike.asu.edu:/var/www/DevBranches/Rajesh/neuroml-db/www/Curator/config/routes.rb ./
+  823  scp -P 2200 vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/www/Curator/config/routes.rb ./
+  824  scp /home/system/Downloads/ChannelPedia_Fields.odt vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation ./
+  825  scp / -p 2200 home/system/Downloads/ChannelPedia_Fields.odt vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation ./
+  832  scp /home/system/Downloads/ChannelPedia_Fields.odt -P 2200 vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation ./
+  833  scp /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation ./
+  834  scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation ./
+  835  scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation/
+  836  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation/
+  837  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  838  scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:sudo /var/www/DevBranches/Vineel/neuroml-db/Documentation/
+  839  scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  sudo vvutukur@spike.asu.edu: /var/www/DevBranches/Vineel/neuroml-db/Documentation/
+  840  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation/
+  841  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  843  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  844  sudo scp -PV 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  845  sudo scp -P -v 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  846  sudo scp -P -V 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  847  sudo scp -P 2200 -V /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  848  sudo scp -P 2200 -v /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/var/www/DevBranches/Vineel/neuroml-db/Documentation
+  849  sudo scp -P 2200 -V /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/home/vvutukur
+  850  sudo scp -P 2200 /home/system/Downloads/ChannelPedia_Fields.odt  vvutukur@spike.asu.edu:/home/vvutukur
+  853  sudo scp -P 2200 -V /home/system/routes.rb  vvutukur@spike.asu.edu:/home/vvutukur
+  854  sudo scp -P 2200 -v /home/system/routes.rb  vvutukur@spike.asu.edu:/home/vvutukur
+ 1102  scp -P 2200 vvutukur@spike.asu.edu:output.txt ./kjl.txt
+ 1638  history | grep scp 
+ 1642  history | grep scp >> aax.txt
+ 1643  history | grep "scp" >> aax.txt
